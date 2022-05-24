@@ -1,0 +1,14 @@
+Name,Age,Breed,Stay Length
+Patch,4,?,3
+Fred,19,bassett,5
+Stinky,134,?,12
+Mr Floof,61,poodle,2
+Red,54,doberman,1
+Noser,12,?,7
+Russell,85,?,8
+Big Bean,37,dalmatian,8
+Sophie,72,staphie-x,2
+Lemon,13,jack russell,9
+Atlas,38,wolfhound,13
+Rex,14,?,0
+Louis,14,?,0
