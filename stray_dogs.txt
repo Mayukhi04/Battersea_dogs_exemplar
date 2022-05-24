@@ -11,4 +11,4 @@ Sophie,72,staphie-x,2
 Lemon,13,jack russell,9
 Atlas,38,wolfhound,13
 Rex,14,?,0
-Louis,14,?,0
+Louis,14,golden retriever,0
